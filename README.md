@@ -4,7 +4,7 @@ Created with [Create React App](https://github.com/facebookincubator/create-reac
 
 Live Demo 
 ---
-[https://wsvincent.github.io/react-calculator](https://wsvincent.github.io/react-calculator)
+[https://asudbury.github.io/react-calculator](https://asudbury.github.io/react-calculator)
 
 Run it locally
 ---
